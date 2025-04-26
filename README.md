@@ -1,29 +1,52 @@
-# Introduction to CSS
+# 🎨 CSS Introduction Project
 
-## Objectives
-Link an external CSS file to an HTML document.
-Apply basic styling using selectors.
-Use colors, fonts, and spacing effectively.
+This project demonstrates the fundamental concepts of CSS styling through a simple web page implementation.
 
-## Instructions
+## 📁 Project Structure
+```
+feb-2025-introduction-to-css-Francis-Njuguna/
+├── index.html          # Main HTML file
+└── style.css           # External CSS stylesheet
+```
 
-Create a style.css file.
-Apply CSS to a HTML page.
-Style elements using:
-Classes and IDs.
-Color and typography.
-Margins, paddings, and borders.
+## ✨ Features Implemented
 
->[!NOTE]
->  - Include at least:
->  - Use of 3 selectors
->  - Style an image
->  - Margin, Padding & Borders
->  - Different font
+### 1. 🎯 CSS Selectors
+- Element selectors (body, h1, h2)
+- ID selector (#main-header)
+- Class selectors (.content-section, .image-section, .features)
 
-# Tasks
- - Link an external CSS file.
- - Apply at least 3 different selectors.
- - Improve readability and aesthetics.
+### 2. 🖌️ Styling Elements
+- Typography with different font families
+- Color schemes
+- Image styling with borders and responsive design
+- Box model properties (margins, padding, borders)
 
-Happy Coding! 💻✨
+### 3. 📐 Layout
+- Responsive design
+- Clean and modern layout
+- Proper content hierarchy
+- Box shadows and rounded corners
+
+## 🚀 How to Use
+
+1. Clone or download this repository
+2. Open `index.html` in your web browser
+3. View the styled webpage with all CSS implementations
+
+## ✅ Requirements Met
+- ✓ External CSS file linked to HTML
+- ✓ At least 3 different selectors used
+- ✓ Image styling implemented
+- ✓ Margin, padding, and borders applied
+- ✓ Different fonts used for typography
+
+## 💻 Technologies Used
+- HTML5
+- CSS3
+
+## 👨‍💻 Author
+Francis Njuguna
+
+## 📄 License
+This project is open source and available for educational purposes.
